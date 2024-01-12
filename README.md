@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Structre and Algorithms.**
 
-- 📫 How to reach me **christianprarthan6624@gmail.com**
+- 📫 How to reach me **christianprarthan07@gmail.com**
 
 - ⚡ Fun fact **I love to watch Anime and I can also speak some French(Merci XD).**
 
