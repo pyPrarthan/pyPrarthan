@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my own Project](https://github.com/pyPrarthan/portfolio.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Data Structre and Algorithms.**
 
