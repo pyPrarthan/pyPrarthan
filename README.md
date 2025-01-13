@@ -35,9 +35,4 @@ I am a passionate web developer with 5 years of coding experience, specializing 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyPrarthan&" alt="pyprarthan" /></p>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/pyPrarthan/Personal-Finance-Tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pyPrarthan&repo=Personal-Finance-Tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pyPrarthan/Weather-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pyPrarthan&repo=Weather-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/pyPrarthan/convex-tour-chat-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pyPrarthan&repo=convex-tour-chat-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pyPrarthan/Building-ChatBots" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pyPrarthan&repo=Building-ChatBots&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
