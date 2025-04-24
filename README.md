@@ -13,7 +13,7 @@
 I am a passionate web developer with 5 years of coding experience, specializing in backend development. I am a **AWS Certified Solution Architect**, which enhances my ability to design robust and efficient solutions tailored to meet client needs.
 
 * 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [MyPortfolio](http://prarthanspath.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://prarthanverse.netlify.app/)
 * ✉️  You can contact me at [christianprarthan07@gmail.com](mailto:christianprarthan07@gmail.com)
 * 🚀  I'm currently working on [Web Projects](http://www.flarewebdesigns.com/)
 * 🧠  I'm learning Python Automation & AI.
@@ -33,6 +33,5 @@ I am a passionate web developer with 5 years of coding experience, specializing 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyPrarthan&show_icons=true&locale=en" alt="pyprarthan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyPrarthan&" alt="pyprarthan" /></p>
 
 
